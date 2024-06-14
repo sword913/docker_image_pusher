@@ -1,9 +1,1 @@
-istio/pilot:1.14.6
-istio/proxyv2:1.14.6
-jaegertracing/jaeger-operator:1.29
-jaegertracing/jaeger-agent:1.29
-jaegertracing/jaeger-collector:1.29
-jaegertracing/jaeger-query:1.29
-jaegertracing/jaeger-es-index-cleaner:1.29
-kubesphere/kiali-operator:v1.50.1
-kubesphere/kiali:v1.50
+nacos-server:v2.3.0
