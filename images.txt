@@ -1,2 +1,2 @@
 nacos/nacos-server:v2.3.0
-
+redis:7.2
